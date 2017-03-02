@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=anio\ mes\ dia\ hora\ minutos
+comment0.target=Acceso(int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Acceso\r\n
+comment1.params=
+comment1.target=int\ getHora()
+numComments=2

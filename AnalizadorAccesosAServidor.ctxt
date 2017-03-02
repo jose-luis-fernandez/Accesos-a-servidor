@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nombreArchivo
+comment0.target=void\ analizarArchivoDeLog(java.lang.String)
+comment1.params=
+comment1.target=int\ obtenerHoraMasAccesos()
+numComments=2
